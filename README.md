@@ -21,13 +21,7 @@ The secrets yaml file is invoked before any other yaml files are spun up. This l
 
 * In the above example, the environment parameter 'EGAR_LIVE_KEY' is assigned the value given for 'egarlivekey' within the secret definition called 'egar-notify-secret'. The environment parameter is made available within the pod and the value is decoded from the base64 encoding.
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Bill Hart - Civica Digital
+* Civica Digital
